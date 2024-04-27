@@ -1,0 +1,15 @@
+{
+  "name": "pet-guide",
+  "version": "1.0.0",
+  "description": "An app to help owners take care of their pets",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Natham Coracini",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
