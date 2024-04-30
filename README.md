@@ -1,17 +1,3 @@
-# pet-guide-backend
+# pet-guide
 
-Backend app to help owners take care of their pets
-
-## Instructions
-
-### Installation
-
-```
-npm install
-```
-
-### Running
-
-```
-npm start
-```
+Project for back and frontend of pet-guide project. Pet-guide is an app to help owners take better care of their pets.
